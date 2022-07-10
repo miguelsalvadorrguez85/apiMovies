@@ -30,7 +30,7 @@ fetchMoviesJSON().then(movies =>{
             <div class="card-body">
                 <h5 class="card-title">${title}</h5>
                 <p class="card-text">${sinopsis}</p>
-                <button onclick="window.location.href='${imdb}';" type="button" class="btn btn-info">Más info</button>
+                <button onclick="window.location.href='${imdb}';" type="button" class="btn btn-info">More info</button>
             </div>
         </div>
 
