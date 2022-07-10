@@ -37,3 +37,8 @@ header {
     margin-top: 20px;
     margin: 15px;
 }
+
+.animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+  }
+  
