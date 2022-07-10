@@ -1,0 +1,39 @@
+#moviesSection{
+    display: grid;
+    grid-template-columns:  repeat(auto-fill, minmax(10rem,20rem));
+    margin: auto;
+    justify-content: center;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+img{
+    height: 400px;
+}
+
+.card-body {
+
+    display: flex;
+    flex-flow: column;
+}
+
+button {
+    margin-top: auto;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.card {
+    margin-top: 20px;
+    margin: 15px;
+}

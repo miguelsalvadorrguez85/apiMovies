@@ -1,0 +1,114 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "caratula": "https://pics.filmaffinity.com/Pulp_Fiction-210382116-large.jpg",
+      "sinopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "imdbLink": "https://www.imdb.com/title/tt0110912/"
+      
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "caratula": "https://resizing.flixster.com/WPGXy6U0bxJt7RhgJUbOSAZxAoU=/206x305/v2/https://flxt.tmsimg.com/assets/p163191_p_v8_al.jpg",
+      "sinopsis": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+      "imdbLink": "https://www.imdb.com/title/tt0416449"
+
+    },
+    {
+      "id": 5,
+      "nombre": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama",
+      "caratula": "https://pics.filmaffinity.com/El_silencio_de_los_corderos-767447992-large.jpg",
+      "sinopsis": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "imdbLink": "https://www.imdb.com/title/tt0102926"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "caratula": "https://pics.filmaffinity.com/Forrest_Gump-212765827-large.jpg",
+      "sinopsis": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "imdbLink": "https://www.imdb.com/title/tt0109830"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "caratula": "https://pics.filmaffinity.com/Las_Hurdes_Tierra_sin_pan-618902623-mmed.jpg",
+      "sinopsis": "Documentary short film that portrays Las Hurdes (Cáceres), one of the poorest and least developed regions of Spain in 1932.",
+      "imdbLink": "https://www.imdb.com/title/tt0023037"
+    },
+    {
+      "id": 8,
+      "nombre":"Up in the Air",
+      "director": "Jason Reitman",
+      "clasificacion": "Drama",
+      "caratula": "https://pics.filmaffinity.com/Up_in_the_Air-147711825-large.jpg",
+      "sinopsis": "Ryan Bingham enjoys living out of a suitcase for his job, travelling around the country firing people, but finds that lifestyle threatened by the presence of a potential love interest, and a new hire presenting a new business model.",
+      "imdbLink": "https://www.imdb.com/title/tt1193138"
+    },
+    {
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9,
+      "caratula": "https://pics.filmaffinity.com/El_sexto_sentido-351070748-large.jpg",
+      "sinopsis": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+      "imdbLink": "https://www.imdb.com/title/tt0167404"
+    },
+    {
+      "nombre": "Contact",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Acción",
+      "id": 10,
+      "caratula": "https://pics.filmaffinity.com/Contact-968251517-large.jpg",
+      "sinopsis": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+      "imdbLink": "https://www.imdb.com/title/tt0118884"
+    },
+    {
+      "nombre": "Her",
+      "director": "Spike Jonze",
+      "clasificacion": "Drama",
+      "id": 11, 
+      "caratula": "https://pics.filmaffinity.com/Her-716403893-large.jpg",
+      "sinopsis": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+      "imdbLink": "https://www.imdb.com/title/tt1798709"
+    },
+    {
+      "nombre": "Lost in Translation",
+      "director": "Sofía Coppola",
+      "clasificacion": "Drama",
+      "id": 11, 
+      "caratula": "https://pics.filmaffinity.com/Lost_in_Translation-597823817-large.jpg",
+      "sinopsis": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+      "imdbLink": "https://www.imdb.com/title/tt0335266" 
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}
